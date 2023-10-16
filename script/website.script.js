@@ -165,7 +165,7 @@ $(document).ready(function() {
 
         // easing name. jQuery comes with "swing" and "linear." For others, you'll need an easing plugin
         // from jQuery UI or elsewhere
-        easing: 'easeInOutQuint',
+        easing: 'easeInOutQuart',
 
         // speed can be a number or 'auto'
         // if 'auto', the speed will be calculated based on the formula:
